@@ -5,7 +5,7 @@
 i used tableau to project yearly addition of shows and movies and also projected thenumbers of tv shows and movies added in limit duration</p>
 <img src ='https://github.com/vinayakmathur/Netflix-Data-Visualization/blob/main/Dashboard%201.png'>
 
-<p> The Following Observation can bemade with this Viz:
-   <li>item1</li>
+<p> The Following Observation can be made with this Viz:
+   <li>Total distribution of movies are higher than TV Shows on Netflix</li>
 </p>
    
