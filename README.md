@@ -7,5 +7,6 @@ i used tableau to project yearly addition of shows and movies and also projected
 
 <p> The Following Observation can be made with this Viz:
    <li>Total distribution of movies are higher than TV Shows on Netflix</li>
+   <l1>the most users of netflix likely watches more documnets than any other genre</li>
 </p>
    
