@@ -9,6 +9,9 @@ i used tableau to project yearly addition of shows and movies and also projected
    <ul>
    <li>Total distribution of movies are higher than TV Shows on Netflix</li>
    <li>The most users of netflix likely watches more documentaries than any other genre</li>
+   <li>There are mostly TV-MA rating in the entire Netflix</li>
+   
 </ul>
+With all this we can see that there are mostly adult contents movies and tv shows on Netflix this means adult content must be restricted to adult only and childerns under 17 age group are not able to access such contents on netflix. 
       </p>
    
