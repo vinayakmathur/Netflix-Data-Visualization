@@ -4,4 +4,8 @@
    This is Netflix data vizualization project
 i used tableau to project yearly addition of shows and movies and also projected thenumbers of tv shows and movies added in limit duration</p>
 <img src ='https://github.com/vinayakmathur/Netflix-Data-Visualization/blob/main/Dashboard%201.png'>
+
+<p> The Following Observation can bemade with this Viz:
+   <li>item1</li>
+</p>
    
